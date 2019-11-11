@@ -1,0 +1,4 @@
+﻿  test.c
+e:\vstest\first\3tosort\3tosort\test.c(118): warning C4013: “system”未定义；假设外部返回 int
+  3tosort.vcxproj -> E:\VStest\First\3tosort\Debug\3tosort.exe
+  3tosort.vcxproj -> E:\VStest\First\3tosort\Debug\3tosort.pdb (Partial PDB)
